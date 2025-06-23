@@ -9,7 +9,7 @@ This project uses machine learning to detect fraudulent credit card transactions
 - **Model training** using Logistic Regression and Random Forest
 - **Evaluation** using Confusion Matrix, ROC & Precision-Recall Curves
 - **SMOTE oversampling** to handle class imbalance
-- 📊 **Interactive Streamlit App** for predictions and visualizations
+
 
 ---
 
@@ -32,7 +32,6 @@ The Dataset was taken from Kaggle - https://www.kaggle.com/datasets/mlg-ulb/cred
 ## ⚙️ Technologies Used
 
 - Python, Pandas, Scikit-learn
-- Streamlit for deployment
 - SMOTE for handling imbalance
 - Matplotlib & Seaborn for visualization
 

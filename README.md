@@ -58,5 +58,11 @@ The Dataset was taken from Kaggle - https://www.kaggle.com/datasets/mlg-ulb/cred
 ![image](https://github.com/user-attachments/assets/74935d71-d18b-4380-94c6-018e0b534b98)
 ![image](https://github.com/user-attachments/assets/27dc4827-1e77-4e98-81fb-217469228be9)
 
+---
+
+## 📸 Screenshots 
+![localhost_8501_](https://github.com/user-attachments/assets/41c45ec4-7c28-48a7-bd18-22d386866237)
+
+
 
 

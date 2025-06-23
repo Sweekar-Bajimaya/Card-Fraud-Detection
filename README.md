@@ -13,6 +13,11 @@ This project uses machine learning to detect fraudulent credit card transactions
 
 ---
 
+## 📎 Dataset
+The Dataset was taken from Kaggle - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
+
+---
+
 ## 📁 Project Structure
 
 | File/Folder         | Purpose                                     |
@@ -43,11 +48,6 @@ This project uses machine learning to detect fraudulent credit card transactions
 | AUC-PR        | 0.8675        | 0.7249              |
 
 ✅ Random Forest was chosen for final deployment due to higher precision and fewer false alarms.
-
----
-
-## 📎 Dataset
-The Dataset was taken from Kaggle - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
 ---
 
